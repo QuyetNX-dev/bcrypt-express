@@ -1,0 +1,39 @@
+{
+  "todo": [
+    {
+      "title": "nấu ăn ngon",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "Ds5MsmKYP",
+      "stt": 1
+    },
+    {
+      "title": "One piece",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "OXG6KXt8X",
+      "stt": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnxm04120@arena.edu.vn",
+      "password": "$2b$10$gpu0w.P5eQ8nE9SAiF6WbuT5nQCKX9uvzrk7z5h0Pc7iEawW94Ac.",
+      "stt": 1,
+      "id": "FJ3Gx6n_r",
+      "isAdmin": true,
+      "wrongLoginCount": null
+    },
+    {
+      "name": "Trongu",
+      "phone": "0357842534",
+      "email": "truongnx@gmail.com",
+      "password": "$2b$10$hv3P.f00muW08VT7gy4faepz1/jC2ooV8DP78aS70jHLvXib2Nplu",
+      "stt": 2,
+      "id": "pk_kZdmVd",
+      "isAdmin": false,
+      "wrongLoginCount": 0
+    }
+  ],
+  "transection": []
+}
